@@ -14,6 +14,7 @@ public class Main {
      }
      public static void main(String[] args){
          Product p=new Product();
+
          p.product(15,25);
          p.product(10,20,30);
          p.product(5.5,8.5);
